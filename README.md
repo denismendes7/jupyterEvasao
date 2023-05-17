@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-    Ciẽncia de Dados
+    Ciência de Dados
 <h2 align="center">
    
 </h2>
@@ -13,7 +13,6 @@
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-executar-o-projeto">Executar projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 
